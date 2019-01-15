@@ -2,11 +2,24 @@
 
 A curated list of resources for privacy-preserving machine learning.
 
+## News
+
+- [PPML News](https://ppml-news.github.io) and [updates on Twitter](https://twitter.com/ppml_news)
+- [Cryptography and Security on arXiv.org](https://arxiv.org/list/cs.CR/recent)
+- [Machine Learning on arXiv.org](https://arxiv.org/list/stat.ML/recent)
+- IACR ePrint [archive](https://eprint.iacr.org/eprint-bin/search.pl?last=31) and [updates on Twitter](https://twitter.com/IACRePrint)
+
 ## Software
 
-- [Cleverhans](https://github.com/tensorflow/cleverhans) - differential privacy in TensorFlow
-- [PySyft](https://github.com/OpenMined/PySyft) - secure multi-party computation and differential privacy in PyTorch
+- [Cleverhans](https://github.com/tensorflow/cleverhans) - adversarial examples in TensorFlow
+- [HE Transformer](https://github.com/NervanaSystems/he-transformer) - homomorphic encryption backend for nGraph
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - differential privacy in TensorFlow
 - [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - secure multi-party computation in TensorFlow
+- [PySyft](https://github.com/OpenMined/PySyft) - secure multi-party computation and differential privacy in PyTorch
+
+## Papers
+
+<em>(coming)</em>
 
 ## Related
 
@@ -16,5 +29,6 @@ A curated list of resources for privacy-preserving machine learning.
 
 ## Workshops
 
+- [Hacking Deep Learning](https://cyber.biu.ac.il/event/hacking-deep-learning/)
 - [Privacy-Preserving Machine Learning, NeurIPS'18](https://ppml-workshop.github.io/ppml/)
 - [Private Multi-Party Machine Learning, NIPS'16](https://pmpml.github.io/PMPML16/)
