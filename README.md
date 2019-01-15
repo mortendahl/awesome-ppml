@@ -2,12 +2,17 @@
 
 A curated list of resources for privacy-preserving machine learning.
 
-## News
+See also:
+- [awesome-he](https://github.com/jonaschn/awesome-he) - resources for homomorphic encryption
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - resources for secure multi-party computation
+- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) - resources for differential privacy
+
+which also contain links to more general purpose software tools for secure computation etc.
+
+
+## News and Updates
 
 - [PPML News](https://ppml-news.github.io) and [updates on Twitter](https://twitter.com/ppml_news)
-- [Cryptography and Security on arXiv.org](https://arxiv.org/list/cs.CR/recent)
-- [Machine Learning on arXiv.org](https://arxiv.org/list/stat.ML/recent)
-- IACR ePrint [archive](https://eprint.iacr.org/eprint-bin/search.pl?last=31) and [updates on Twitter](https://twitter.com/IACRePrint)
 
 ## Software
 
@@ -19,13 +24,23 @@ A curated list of resources for privacy-preserving machine learning.
 
 ## Papers
 
-<em>(coming)</em>
+Select papers:
 
-## Related
+- [*SecureNN: Efficient and Private Neural Network Traning*, WGC'18](https://eprint.iacr.org/2018/442)
+- [*ABY3: A Mixed Protocol Framework for Machine Learning*, MR'18](https://eprint.iacr.org/2018/403)
+- [*Gazelle: A Low Latency Framework for Secure Neural Network Inference*, JVC'18](https://eprint.iacr.org/2018/073)
+- [*DeepSecure: Scalable Provably-Secure Deep Learning*, RRK'17](https://arxiv.org/abs/1705.08963)
+- [*SecureML: A System for Scalable Privacy-Preserving Machine Learning*, MZ'17](https://eprint.iacr.org/2017/396)
+- [*CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy*, DGLLNW'16](https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/)
 
-- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) - resources for differential privacy
-- [awesome-he](https://github.com/jonaschn/awesome-he) - resources for homomorphic encryption
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - resources for secure multi-party computation
+Sources:
+- The archives of [PPML News](https://ppml-news.github.io)
+- [Cryptography and Security on arXiv.org](https://arxiv.org/list/cs.CR/recent)
+- [Machine Learning on arXiv.org](https://arxiv.org/list/stat.ML/recent)
+- [IACR ePrint archive](https://eprint.iacr.org/eprint-bin/search.pl?last=31) and [updates on Twitter](https://twitter.com/IACRePrint)
+
+
+The archives of  contain more papers, and a great summary is provided in [MRSV'19](https://eprint.iacr.org/2017/1190).
 
 ## Workshops
 
