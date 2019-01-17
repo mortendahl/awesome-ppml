@@ -52,7 +52,7 @@ Selection:
 - [*SecureML: A System for Scalable Privacy-Preserving Machine Learning*, MZ'17](https://eprint.iacr.org/2017/396)
 - [*CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy*, DGLLNW'16](https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/)
 
-## Who to Follow
+## Good to Follow
 
 - [Andrew Trask]() and [OpenMined]()
 - [Adrià Gascón](https://dblp.org/pers/hd/g/Gasc=oacute=n:Adri=agrave=)
