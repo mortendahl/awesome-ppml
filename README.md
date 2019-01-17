@@ -54,6 +54,6 @@ Selection:
 
 ## Good to Follow
 
-- [Andrew Trask]() and [OpenMined]()
+- [Andrew Trask]() and [OpenMined]() community
 - [Adrià Gascón](https://dblp.org/pers/hd/g/Gasc=oacute=n:Adri=agrave=)
 
