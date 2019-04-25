@@ -21,7 +21,8 @@ which also contain links to some of the (more general purpose) tools often used 
 
 - [HE Transformer](https://github.com/NervanaSystems/he-transformer) - homomorphic encryption backend for nGraph
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - differential privacy in TensorFlow
-- [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - secure multi-party computation in TensorFlow
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - federated learning in TensorFlow
+- [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) - secure multi-party computation in TensorFlow
 - [PySyft](https://github.com/OpenMined/PySyft) - secure multi-party computation and differential privacy in PyTorch
 
 ## Conferences and Workshops
