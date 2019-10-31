@@ -39,7 +39,7 @@ which also contain links to some of the (more general purpose) tools often used 
 
 ## Research Papers
 
-A great summary is provided in [MRSV'17](https://eprint.iacr.org/2017/1190) and the archives of [PPML News](ppml-news.github.io) contain more papers in chronological order.
+A great summary is provided in [MRSV'17](https://eprint.iacr.org/2017/1190) and the archives of [PPML News](https://ppml-news.github.io) contain more papers in chronological order.
 
 Selection:
 
