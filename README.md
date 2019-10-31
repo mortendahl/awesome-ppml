@@ -1,4 +1,4 @@
-# awesome-ppml
+# Awesome PPML
 
 A curated list of resources for privacy-preserving machine learning.
 
@@ -22,14 +22,20 @@ which also contain links to some of the (more general purpose) tools often used 
 - [HE Transformer](https://github.com/NervanaSystems/he-transformer) - homomorphic encryption backend for nGraph
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - differential privacy in TensorFlow
 - [TensorFlow Federated](https://github.com/tensorflow/federated) - federated learning in TensorFlow
-- [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) - secure multi-party computation in TensorFlow
+- [TF Encrypted](https://github.com/tf-encrypted/) - secure multi-party computation in TensorFlow
 - [PySyft](https://github.com/OpenMined/PySyft) - secure multi-party computation and differential privacy in PyTorch
 
 ## Conferences and Workshops
 
+- [Privacy-Preserving Machine Learning](https://ppml-workshop.github.io/ppml/)
 - [Hacking Deep Learning](https://cyber.biu.ac.il/event/hacking-deep-learning/)
-- [Privacy-Preserving Machine Learning, NeurIPS'18](https://ppml-workshop.github.io/ppml/)
 - [Private Multi-Party Machine Learning, NIPS'16](https://pmpml.github.io/PMPML16/)
+
+## Tutorials and Courses
+
+- [Privacy-Preserving Machine Learning with TensorFlow, TFWorld'19](https://github.com/dropoutlabs/tf-world-tutorial)
+- [Secure and Private AI, Udacity](https://www.udacity.com/course/secure-and-private-ai--ud185)
+- [Privacy Preserving Deep Learning with PyTorch & PySyft](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
 
 ## Research Papers
 
@@ -52,9 +58,3 @@ Selection:
 - [*Oblivious Neural Network Predictions via MiniONN transformations*, LJLA'17](https://eprint.iacr.org/2017/452)
 - [*SecureML: A System for Scalable Privacy-Preserving Machine Learning*, MZ'17](https://eprint.iacr.org/2017/396)
 - [*CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy*, DGLLNW'16](https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/)
-
-## Good to Follow
-
-- [Andrew Trask]() and [OpenMined]() community
-- [Adrià Gascón](https://dblp.org/pers/hd/g/Gasc=oacute=n:Adri=agrave=)
-
