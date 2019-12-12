@@ -37,6 +37,8 @@ which also contain links to some of the (more general purpose) tools often used 
 - [Secure and Private AI, Udacity](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Privacy Preserving Deep Learning with PyTorch & PySyft](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
 
+- [Federated learning with TensorFlow Federated (TF World '19)](https://www.youtube.com/watch?v=m17IgaHaoTI&feature=push-sd&attr_tag=3_KGWX1Dp6MKVXdd%3A6)
+
 ## Research Papers
 
 A great summary is provided in [MRSV'17](https://eprint.iacr.org/2017/1190) and the archives of [PPML News](https://ppml-news.github.io) contain more papers in chronological order.
