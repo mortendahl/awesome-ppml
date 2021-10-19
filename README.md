@@ -58,3 +58,7 @@ Selection:
 - [*Oblivious Neural Network Predictions via MiniONN transformations*, LJLA'17](https://eprint.iacr.org/2017/452)
 - [*SecureML: A System for Scalable Privacy-Preserving Machine Learning*, MZ'17](https://eprint.iacr.org/2017/396)
 - [*CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy*, DGLLNW'16](https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/)
+
+## Books
+
+- [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning)
